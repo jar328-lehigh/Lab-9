@@ -1,0 +1,8 @@
+Read Address: 0 => Data: 0xa7
+Read Address: 1 => Data: 0xa0
+Read Address: 2 => Data: 0xa1
+Read Address: 3 => Data: 0xa2
+Read Address: 4 => Data: 0xa3
+Read Address: 5 => Data: 0xa4
+Read Address: 6 => Data: 0xa5
+Read Address: 7 => Data: 0xa6
